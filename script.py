@@ -2,6 +2,7 @@ import json
 import random
 import time
     
+# Questions in json file are created by ChatGPT    
 def load_questions():
     with open("questions.json", "r") as f:
         questions = json.load(f)["questions"]
