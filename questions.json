@@ -99,6 +99,41 @@
             "question": "Which cloud platform is developed by Amazon?",
             "options": ["Microsoft Azure", "Google Cloud", "Amazon Web Services (AWS)", "IBM Cloud"],
             "answer": "Amazon Web Services (AWS)"
+        },
+        {
+           "question": "Which planet is known as the Red Planet?",
+           "options": ["Earth", "Mars", "Jupiter", "Venus"],
+           "answer": "Mars"
+        },
+        {
+           "question": "Who wrote the famous play 'Romeo and Juliet'?",
+           "options": ["William Shakespeare", "Mark Twain", "Charles Dickens", "J.K. Rowling"],
+           "answer": "William Shakespeare"
+        },
+        {
+           "question": "What is the full form of 'RAM' in computing?",
+           "options": ["Random Access Memory", "Read Access Memory", "Read After Memory", "Rapid Access Memory"],
+           "answer": "Random Access Memory"
+        },
+        {
+           "question": "Which country is famous for the Eiffel Tower?",
+           "options": ["Italy", "France", "Germany", "Spain"],
+           "answer": "France"
+        },
+        {
+           "question": "What is the capital of Japan?",
+           "options": ["Beijing", "Tokyo", "Seoul", "Bangkok"],
+           "answer": "Tokyo"
+        },
+        {
+           "question": "What is the purpose of DNS in networking?",
+           "options": ["To translate domain names into IP addresses", "To secure data transfer", "To store web content", "To host websites"],
+           "answer": "To translate domain names into IP addresses"
+        },
+        {
+           "question": "Who is the author of 'The Theory of Relativity'?",
+           "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+           "answer": "Albert Einstein"
         }
     ]
 }
